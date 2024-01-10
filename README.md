@@ -24,3 +24,6 @@ _if any version is displayed then,chocolatey is installed._
 ```sh
 choco upgrade dart-sdk
 ```
+- After installing set the PATH in environment variables as shown below.
+
+![image](https://github.com/BroLetsCodeIt/Dart-Programming-Language./assets/113767803/40a0d16b-568e-4d6d-972b-8ea631b58bba)
