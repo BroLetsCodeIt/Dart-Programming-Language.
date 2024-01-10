@@ -38,3 +38,4 @@ dart --version
 
 # Resources :
 - cheat sheet  -> [click here](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf)
+- Exercises -> [click here](https://exercism.org/tracks/dart)
