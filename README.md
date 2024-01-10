@@ -27,3 +27,11 @@ choco upgrade dart-sdk
 - After installing set the PATH in environment variables as shown below.
 
 ![image](https://github.com/BroLetsCodeIt/Dart-Programming-Language./assets/113767803/40a0d16b-568e-4d6d-972b-8ea631b58bba)
+
+- Open any directory in command prompt & check the dart version.
+```sh
+dart --version
+```
+![image](https://github.com/BroLetsCodeIt/Dart-Programming-Language./assets/113767803/d83a5e87-bd72-4901-ba9c-e9d2f1d2aa81)
+
+
